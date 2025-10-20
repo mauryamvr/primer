@@ -1,5 +1,18 @@
 # @primer/react
 
+## 38.0.0-rc.9
+
+### Major Changes
+
+- [#7032](https://github.com/primer/react/pull/7032) [`9fce541`](https://github.com/primer/react/commit/9fce5419ce76c94837f2bd4b013f007837a97182) Thanks [@francinelucca](https://github.com/francinelucca)! - - remove sx, SxProp, exports
+  - add type ThemeColorPaths, type ThemeShadowPaths
+
+### Patch Changes
+
+- [#7008](https://github.com/primer/react/pull/7008) [`ca6d60d`](https://github.com/primer/react/commit/ca6d60d37dcdaec354bbdd097fd8c656971e752b) Thanks [@langermank](https://github.com/langermank)! - Use primitives for Button line-height
+
+- [#7030](https://github.com/primer/react/pull/7030) [`52d6cf7`](https://github.com/primer/react/commit/52d6cf7e7cc2a0f4ea3186ee61412a2a2549b530) Thanks [@francinelucca](https://github.com/francinelucca)! - fix(SelectPanel): remove hidden attribute from selection Radio
+
 ## 38.0.0-rc.8
 
 ### Major Changes
